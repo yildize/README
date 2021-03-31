@@ -36,10 +36,19 @@ Hey there it's Erdogan. I am interested in AI, Machine Learning, Deep Learning.
 - Binder App: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yildize/isBeautifulV3/main?urlpath=voila%2Frender%2FisBeautifulV3-Voila.ipynb)
 - [github page](https://github.com/yildize/isBeautifulV3)
 
-- Static Website
-- Survey App (Angular)
-- BTC Price Prediction
-- Beauty Detector
-- Beauty Detector2 (+Gender and Age Prediction with Multiclass Classification)
-- Crypto Price Compare Bot
+### Price Predictions
+- [Sales Prediction Notebook](https://github.com/yildize/Predict-Future-Sales) 
+- [Weekly Price Prediction Test](https://github.com/yildize/BtcWeeklyClassification-FromImages-Using-GramianAngularField)
+
+### Survey App (Angular)
+- It is a simple survey app that I've created for a friend that allows users to create surveys and share it with others. I used Angular. It uses Firebase to store the data.
+- [deployed app page](https://meltemsurvey.web.app/)
+- [github page](https://github.com/yildize/Survey-App-Angular)
+
+### Some Websites
+- [erdoganyildiz.com](http://www.erdoganyildiz.com/)
+- [old blog page mvc github](https://github.com/yildize/BlogWebsite-MVC)
+
+### Crypto Price Compare Bots
+- Some web crawlers that compares crypto prices on different crypto markets and send e-mails.
 
