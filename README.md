@@ -26,6 +26,15 @@ Hey there it's Erdogan. I am interested in AI, Machine Learning, Deep Learning.
 - [github page](https://github.com/yildize/CollaborativeFiltering_JesterApp)
 - [Kaggle Dataset]: (https://www.kaggle.com/vikashrajluhaniwal/jester-17m-jokes-ratings-dataset)
 
+### "Beauty" Detector 
+- It is a computer vision application. Basically the app tries to detect "beauty". This project is done only for educational purposes and fun.
+- I collected data using google search. Old version does a binary classification and assign a probability for "beauty" based on the given image.
+- So it was basically a binary image classificiation model.
+- [Old Version Model Training](https://github.com/yildize/BeautyDetector)
+
+- Later I improved this app, added it some other features. Two different model works on it. One is a multiclass image classifier (based on gender and "beauty" level). Another is an image regressor (age prediction). 
+- Binder App: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yildize/isBeautifulV3/main?urlpath=voila%2Frender%2FisBeautifulV3-Voila.ipynb)
+- [github page](https://github.com/yildize/isBeautifulV3)
 
 - Static Website
 - Survey App (Angular)
@@ -33,6 +42,4 @@ Hey there it's Erdogan. I am interested in AI, Machine Learning, Deep Learning.
 - Beauty Detector
 - Beauty Detector2 (+Gender and Age Prediction with Multiclass Classification)
 - Crypto Price Compare Bot
-- Movie Recommendation App
-- Joke Recommendation
 
