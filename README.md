@@ -4,7 +4,7 @@ Hey there it's Erdogan. I am interested in AI, Machine Learning, Deep Learning.
 ## Some of my Notes:
 - [Machine Learning (Andrew Ng.)](https://github.com/yildize/MachineLearning-CourseContents-AndrewNg)
 - [Deep Learning Specialization (Andrew Ng.)](https://github.com/yildize/DeepLearningSpecialization-AndrewNg)
-- Tensorflow in Practice (Laurence Moroney)(https://github.com/yildize/TensorflowInPractice-MyNotes)
+- [Tensorflow in Practice (Laurence Moroney)](https://github.com/yildize/TensorflowInPractice-MyNotes)
 - [FastaiV3] (Jeremy Howard)(https://github.com/yildize/FastaiV3-Notes)
 - [Basic Python Machine Learning] (https://github.com/yildize/Basic-MachineLearning-Python)
 - [Git Notes] (https://github.com/yildize/Git-MyNotes)
