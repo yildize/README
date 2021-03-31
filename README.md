@@ -7,20 +7,14 @@ Hey there it's Erdogan. I am interested in AI, Machine Learning, Deep Learning.
 - [Tensorflow in Practice (Laurence Moroney)](https://github.com/yildize/TensorflowInPractice-MyNotes)
 - [FastaiV3 (Jeremy Howard)](https://github.com/yildize/FastaiV3-Notes)
 - [Basic Python Machine Learning](https://github.com/yildize/Basic-MachineLearning-Python)
-
 - [Undergraduate Thesis - Exoskeleton](https://github.com/yildize/Exeskeleton-Project-Files)
 - [School Projects](https://github.com/yildize/Angular-MyNotes)
-
 - [Angular Notes](https://github.com/yildize/Angular-MyNotes)
 - [Web Scraping](https://github.com/yildize/WebScraping-MyNotes)
 - [SQL Basics](https://github.com/yildize/SQL-MyNotes)
-
-
 - [Python Basics](https://github.com/yildize/Python-Basics-MyNotes)
 - [Data Structures and Algorithms](https://github.com/yildize/Data-Structures-and-Algorithms-Python-MyNotes)
 - [Git Notes](https://github.com/yildize/Git-MyNotes)
-
-
 
 ## Some of my Projects:
 ### Movie Recommendation App
