@@ -5,7 +5,8 @@ Hey there it's Erdogan. I am interested in AI, Machine Learning, Deep Learning.
 - [Machine Learning (Andrew Ng.)](https://github.com/yildize/MachineLearning-CourseContents-AndrewNg)
 - [Deep Learning Specialization (Andrew Ng.)](https://github.com/yildize/DeepLearningSpecialization-AndrewNg)
 - [Tensorflow in Practice (Laurence Moroney)](https://github.com/yildize/TensorflowInPractice-MyNotes)
-- [FastaiV3 (Jeremy Howard)](https://github.com/yildize/FastaiV3-Notes)
+- [FastaiV3-Part1 (Jeremy Howard)](https://github.com/yildize/FastaiV3-Notes)
+- [FastaiV4-Part1 (Jeremy Howard)](https://github.com/yildize/FastaiV4)
 - [Basic Python Machine Learning](https://github.com/yildize/Basic-MachineLearning-Python)
 - [Undergraduate Thesis - Exoskeleton](https://github.com/yildize/Exeskeleton-Project-Files)
 - [School Projects](https://github.com/yildize/Angular-MyNotes)
@@ -27,6 +28,12 @@ Hey there it's Erdogan. I am interested in AI, Machine Learning, Deep Learning.
 - Binder App: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yildize/CollaborativeFiltering_JesterApp/main?urlpath=voila%2Frender%2FjesterApp.ipynb)
 - [github page](https://github.com/yildize/CollaborativeFiltering_JesterApp)
 
+### Collaborative Filtering Notebook
+- [notebook](https://github.com/yildize/FastaiV4/blob/main/8.CollaborativeFiltering.ipynb)
+### Tabular Models Notebook
+- [notebook](https://github.com/yildize/FastaiV4/blob/main/9.Tabular.ipynb)
+### NLP Notebook
+- [notebook](https://github.com/yildize/FastaiV4/blob/main/10.%20NLP.ipynb)
 ### "Beauty" Detector 
 - It is a computer vision application. Basically the app tries to detect "beauty". This project is done only for educational purposes and fun.
 - I collected data using google search. Old version does a binary classification and assign a probability for "beauty" based on the given image.
